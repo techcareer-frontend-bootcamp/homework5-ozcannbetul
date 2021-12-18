@@ -2,6 +2,9 @@
 html {
   scroll-behavior: smooth;
 }
+.nav-logo{
+text-decoration: none;
+}
 
 *::-webkit-scrollbar {
   width: 3px;
